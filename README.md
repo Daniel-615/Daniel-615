@@ -11,8 +11,7 @@
 - ✨ Creating bugs since **2024**
 - 📚 Currently learning **Node.js** and improving backend architecture  
 - 🎯 Goals: Build **scalable** and **efficient** systems  
-- 💻 Experienced with: **Java**, **Python**, **Django**, **MySQL**, **PostgreSQL**, **SQL Server**, **Sockets**, process scheduling algorithms  
-- 🎲 Fun fact: I can explain complex tech stuff using **food analogies** 
+- 💻 Experienced with: **Java**, **Python**, **Django**, **MySQL**, **PostgreSQL**, **SQL Server**, **Sockets**, process scheduling algorithms, microservices, distribute database.
 
 ---
 
@@ -53,6 +52,6 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/tu-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angel-suyán-b697a9274" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Daniel-615" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
